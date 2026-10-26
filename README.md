@@ -1,6 +1,6 @@
 # PACC-backend
 
-Backend del proyecto PACC (gestión de instructores).
+API REST (backend) del Plan Anual de Compras y Contrataciones (PACC)
 Stack: Node.js + Express + TypeScript.
 
 ## Descripción de los directorios y archivos
@@ -72,7 +72,3 @@ Stack: Node.js + Express + TypeScript.
 | `npm run start` | Corre la versión compilada |
 | `npm run lint` | Revisa el código con ESLint |
 | `npm run format` | Formatea el código con Prettier |
-
-## Flujo de trabajo
-
-- `main`: rama estable. Protegida, solo se modifica por
